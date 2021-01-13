@@ -60,9 +60,9 @@ While retaining existing customers and thereby increasing their lifetime value i
 
 ### Built With
 
-* []()
-* []()
-* []()
+* []() Python 3.5 +
+* []() Spyder/Jupyter
+* []() Pandas,Numpy,Matplotlib,Keras/TensorFlow
 
 
 
