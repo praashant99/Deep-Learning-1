@@ -1,8 +1,6 @@
 
 
 [![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
@@ -11,7 +9,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/praashant99/Deep-Learning-102">
-    <img src="images/ann.jpg" alt="Logo" width="100" height="100">
+    <img src="images/ann.jpg" alt="Logo" width="250" height="100">
   </a>
 
   <h3 align="center">Customer Churnrate (ANN)</h3>
