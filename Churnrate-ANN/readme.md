@@ -53,8 +53,9 @@ Banking is one of those traditional industries that has gone through a steady tr
 
 While retaining existing customers and thereby increasing their lifetime value is something everyone acknowledges as being important, there is little the banks can do about customer churn when they don’t see it coming in the first place. This is where predicting churn at the right time becomes important, especially when clear customer feedback is absent. Early and accurate churn prediction empowers CRM and customer experience teams to be creative and proactive in their engagement with the customer. In fact, by simply reaching out to the customer early enough, 11% of the churn can be avoided.
 
-<img src="images/2.jpg" alt="Logo" width="150" height="150">
-
+<a>
+  <img src="images/2.jpg" alt="Logo" width="150" height="150">
+</a>
 
 ### Built With
 
