@@ -9,7 +9,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/praashant99/Deep-Learning-102">
-    <img src="images/ann.jpg" alt="Logo" width="250" height="100">
+    <img src="images/ann.jpg" alt="Logo" width="350" height="200">
   </a>
 
   <h3 align="center">Customer Churnrate (ANN)</h3>
