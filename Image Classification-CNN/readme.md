@@ -9,7 +9,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/praashant99/Deep-Learning-102">
-    <img src="images/ann.jpg" alt="Logo" width="350" height="200">
+    <img src="images/cnn.jpg" alt="Logo" width="450" height="300">
   </a>
 
   <h3 align="center">Customer Churnrate (ANN)</h3>
@@ -55,7 +55,7 @@ While retaining existing customers and thereby increasing their lifetime value i
 
 <p align="center">
 <a>
-  <img src="images/2.png" alt="Logo" width="600" height="500">
+  <img src="images/cnn1.png" alt="Logo" width="600" height="500">
 </a>
 
 ### Built With
