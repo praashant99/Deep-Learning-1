@@ -12,7 +12,7 @@
     <img src="images/rnn.jpg" alt="Logo" width="450" height="300">
   </a>
 
-  <h3 align="center">Customer Churnrate (ANN)</h3>
+  <h3 align="center">Google Stock Price Prediction (RNN)</h3>
 
   <p align="center">
     project_description
