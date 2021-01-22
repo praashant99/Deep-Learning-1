@@ -53,6 +53,8 @@ Computer vision is the field of computer science that focuses on replicating par
 
 Thanks to advances in artificial intelligence and innovations in deep learning and neural networks, the field has been able to take great leaps in recent years and has been able to surpass humans in some tasks related to detecting and labeling objects.
 
+
+
 <p align="center">
 <a>
   <img src="images/cnn1.png" alt="Logo" width="600" height="500">
