@@ -91,7 +91,7 @@ So we try to predict Google stock prices with the help of Rnn & LSTM
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [Prashant Yadav](prashantyadav1550@gmail.com) - email
+Your Name - [Prashant Yadav]([prashantyadav1550@gmail.com]) - email
 
 
 
