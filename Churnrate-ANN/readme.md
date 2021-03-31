@@ -91,7 +91,7 @@ While retaining existing customers and thereby increasing their lifetime value i
 
 Your Name - [Prashant Yadav (prashantyadav1550@gmail.com) - email
 
-Project Link: [(github.com/praashant99/Deep-Learning-1/edit/main/Churnrate-ANN)]
+Project Link: (github.com/praashant99/Deep-Learning-1/edit/main/Churnrate-ANN)
 
 
 
