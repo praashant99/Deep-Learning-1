@@ -1,7 +1,5 @@
 
 
-[![Forks][forks-shield]][forks-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 
@@ -84,11 +82,11 @@ Thanks to advances in artificial intelligence and innovations in deep learning a
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/praashant99/
    ```
-2. Install NPM packages
+2. Install libraries packages
    ```sh
-   npm install
+   pip install keras
    ```
 
 
@@ -116,9 +114,9 @@ Contributions are what make the open source community such an amazing place to b
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
+Your Name - [prashant yadav (prashantyadav1550@gmail.com - email
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_nam
+
 
 
 
